@@ -2,14 +2,14 @@
 
 **enjoy of my new js project**
 
-![Screenshot (70)](https://github.com/ziba-irani/SassProject/assets/125620113/37087219-e0b2-4d18-b002-b5a2deaf4ea6)
+![WeatherApp](https://github.com/ziba-irani/weatherApp/assets/125620113/81f26e7a-0635-4ded-811b-904f803e38f0)
 
 - [Demo Project](https://ziba-irani.github.io/weatherApp/)
 
 - Developed by ziba irani
 
 - Technologies Used - Html , css , Js
-- 
+
 - Role - Frontend
 
 - How to reach me : with my [instagram](https://instagram.com/zibairani_dev/) and [linkedin](https://www.linkedin.com/in/ziba-irani-developr/)
