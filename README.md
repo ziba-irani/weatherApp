@@ -8,7 +8,7 @@
 
 - Developed by ziba irani
 
-- Technologies Used - Html , css , Js
+- Technologies Used - Html , css , Js , Api
 
 - Role - Frontend
 
